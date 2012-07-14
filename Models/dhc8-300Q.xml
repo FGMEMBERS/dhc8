@@ -2,7 +2,7 @@
 
 <PropertyList>
 
-<path>Models/dhc8.ac</path> 
+<path>Aircraft/dhc8/Models/dhc8.ac</path> 
 
 <offsets>
 <z-m>-0.66</z-m>
