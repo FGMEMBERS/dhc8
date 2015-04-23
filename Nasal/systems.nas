@@ -21,7 +21,9 @@ setlistener("/sim/signals/fdm-initialized", func {
     setprop("/instrumentation/clock/flight-meter-hour",0);
     setprop("controls/gear/water-rudder-down",0);
     setprop("controls/gear/water-rudder-pos",0);
-    setprop(,0);
+    #line commented out by suggestion of Richard Senior (Sanhozay)
+    #http://forum.flightgear.org/viewtopic.php?f=25&t=24305&p=222293&hilit=dhc8#p222293
+    #setprop(,0);
     print("system  ...Check");
     setprop("controls/engines/engine/condition",0);
     setprop("controls/engines/engine/condition",0);
