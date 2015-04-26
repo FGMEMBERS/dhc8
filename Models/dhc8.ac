@@ -101,7 +101,7 @@ OBJECT poly
 name "CTL.btn_1"
 data 8
 Cube.118
-texture "Aircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "Instruments/M877.rgb"
 crease 30.000000
 numvert 4
 0.00439739 -0.012743 -0.016302
@@ -169,7 +169,7 @@ OBJECT poly
 name "SEL.btn_1"
 data 8
 Cube.111
-texture "Aircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "Instruments/M877.rgb"
 crease 30.000000
 numvert 4
 0.00439739 -0.012743 0.006863
@@ -190,7 +190,7 @@ name "et"
 loc -8.91126 2.64577 0.36507
 data 9
 Plane.485
-texture "Aircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "Instruments/M877.rgb"
 crease 30.000000
 numvert 4
 0.000828743 0.000164032 -0.013833
@@ -211,7 +211,7 @@ name "ft"
 loc -8.91126 2.64577 0.36507
 data 9
 Plane.484
-texture "Aircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "Instruments/M877.rgb"
 crease 30.000000
 numvert 4
 0.000828743 0.000164032 -0.00632
@@ -232,7 +232,7 @@ name "gmt"
 loc -8.91126 2.64577 0.36507
 data 9
 Plane.482
-texture "Aircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "Instruments/M877.rgb"
 crease 30.000000
 numvert 4
 0.000828743 0.000164032 0.010603
@@ -253,7 +253,7 @@ name "lt"
 loc -8.91126 2.64577 0.36507
 data 9
 Plane.483
-texture "Aircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "Instruments/M877.rgb"
 crease 30.000000
 numvert 4
 0.000828743 0.000164032 0.001876

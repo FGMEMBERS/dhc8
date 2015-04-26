@@ -421,7 +421,7 @@ name "handle"
 loc -0.00507833 0.00671974 0.00786008
 data 6
 handle
-texture "Aircraft/dhc8/Models/panel.rgb"
+texture "../panel.rgb"
 crease 30.000000
 numvert 644
 0.03776 0.008183 -0.002487

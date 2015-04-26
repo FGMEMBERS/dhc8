@@ -9,7 +9,7 @@ name "HR.001"
 loc -8.91273 2.64315 0.364793
 data 9
 Plane.472
-texture "ModelsAircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "M877.rgb"
 crease 30.000000
 numvert 4
 0.00135326 0.0150533 0.0212812
@@ -30,7 +30,7 @@ name "HR.002"
 loc -8.91273 2.64315 0.364793
 data 9
 Plane.477
-texture "ModelsAircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "M877.rgb"
 crease 30.000000
 numvert 4
 0.00135326 0.0150533 0.010421
@@ -51,7 +51,7 @@ name "M877"
 loc -8.91273 2.64315 0.364793
 data 10
 Circle.050
-texture "ModelsAircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "M877.rgb"
 crease 30.000000
 numvert 102
 0.0025034 -0.0231197 1.40369e-005
@@ -730,7 +730,7 @@ name "M877.002"
 loc -8.91273 2.64315 0.364793
 data 10
 Circle.054
-texture "ModelsAircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "M877.rgb"
 crease 30.000000
 numvert 32
 0.00135326 0.0202403 -0.032098
@@ -884,7 +884,7 @@ name "M877.display"
 loc -8.91273 2.64315 0.364793
 data 9
 Plane.469
-texture "ModelsAircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "M877.rgb"
 crease 30.000000
 numvert 8
 0.000815392 0.0207169 0.0310138
@@ -916,7 +916,7 @@ name "MN.001"
 loc -8.91273 2.64315 0.364793
 data 9
 Plane.479
-texture "ModelsAircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "M877.rgb"
 crease 30.000000
 numvert 4
 0.00135326 0.0150533 -0.00391605
@@ -937,7 +937,7 @@ name "MN.002"
 loc -8.91273 2.64315 0.364793
 data 9
 Plane.478
-texture "ModelsAircraft/Instruments-3d/clock/M877/M877.rgb"
+texture "M877.rgb"
 crease 30.000000
 numvert 4
 0.00135326 0.0150533 -0.0145602
