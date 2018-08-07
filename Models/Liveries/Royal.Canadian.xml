@@ -5,7 +5,7 @@
     <model>
         <livery>
             <name type="string">Royal canadian</name>
-            <texture>Royal.Canadian.rgb</texture>
+            <texture>royal.canadian.rgb</texture>
         </livery>
     </model>
 </sim>
