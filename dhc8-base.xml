@@ -10,9 +10,7 @@ DHC8 -300Q by Alex Park June 2008
 
     <model>
         <start-idling type="bool">1</start-idling>
-        <variant type="int">1</variant>
     </model>
-
 
     <view n="0">
         <internal archive="y">true</internal>
